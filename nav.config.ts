@@ -14,7 +14,7 @@ const c: IConfig = {
   showGithub: false,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://nav3.cn',
+  homeUrl: 'https://quantqri.github.io/nav',
 
   // 网站标题
   title: 'Mr.Hat - 导航站',
